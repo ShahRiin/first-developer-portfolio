@@ -1,0 +1,44 @@
+body{font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+   color: orange; 
+}
+.violate{
+    color: orchid;
+}
+.jui{
+    color: cornflowerblue;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.iju{
+    width: 50%;
+    padding-left: 10%;
+}
+.iju img{
+    100%
+}
+.link-button{
+    text-decoration:none ;
+    background-image: linear-gradient(rgb(85, 85, 126), rgb(168, 68, 152));
+    padding: 5px 30px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(circles/top-banner.png);
+    background-repeat: no-repeat;
+}
+.web{
+    color: cyan;
+}
+.dream-big{
+    background-image: url(circles/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
